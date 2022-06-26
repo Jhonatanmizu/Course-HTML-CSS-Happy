@@ -1,0 +1,12 @@
+.card{
+    width: 62.7rem;
+    height: 18.4rem;
+    filter: drop-shadow(10px 10px 0px #000000);
+    background: var(--alt-color);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    
+}

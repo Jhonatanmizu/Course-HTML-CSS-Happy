@@ -5,3 +5,4 @@ import "../styles/components/scrollbar.scss";
 import "../styles/components/separator.scss";
 import "../styles/components/main.scss";
 import "../styles/components/typography.scss";
+import "../styles/components/card.scss";
